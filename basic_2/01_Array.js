@@ -29,7 +29,7 @@ console.log(myArr2);
 // console.log(myn1);
 
 // console.log("B " , myArr);
-const myn2 = myArr.splice(1,3)// how much to delte 
+const myn2 = myArr.splice(1,3)// fisrt index will be where to delete / the index will be how much to delete 
 //console.log("C" , myArr)
 console.log(myn2)
 

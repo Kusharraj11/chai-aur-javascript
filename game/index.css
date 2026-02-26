@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+#game {
+    position: relative;
+    
+}
+
+#player {
+    width: 100px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+.coin {
+    width: 30px;
+    position: absolute;
+}

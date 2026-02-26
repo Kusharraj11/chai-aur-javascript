@@ -1,1 +1,1 @@
-console.log(jsuser[mySym]);
+name
