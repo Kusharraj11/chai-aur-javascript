@@ -3,7 +3,13 @@ body {
 }
 
 #game {
+    width: 1300px;
+    height: 649px;
+    background-image: url("bg.png");
+    background-size: cover;
+    background-position: center;
     position: relative;
+    overflow: hidden;
     
 }
 
