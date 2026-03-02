@@ -13,9 +13,4 @@ const {courseInstructor : instructor} = course //object de-structure
 //console.log (courseInstructor);
 console.log (instructor);
 
-{
-    name : "kushar",
-    coursename:
-
-}
 
